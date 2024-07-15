@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-app-project",
+  "version": "1.0.0",
+  "description": "Creating a Ecommerce App, using node.Js, express.Js, and mySql",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibzde/E-Commerce-App-Project.git"
+  },
+  "keywords": [
+    "backend",
+    "project"
+  ],
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibzde/E-Commerce-App-Project/issues"
+  },
+  "homepage": "https://github.com/vaibzde/E-Commerce-App-Project#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
